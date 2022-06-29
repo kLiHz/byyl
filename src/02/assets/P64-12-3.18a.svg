@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="311px"
+	height="128px" viewBox="-0.5 -0.5 311 128" style="background-color: rgb(255, 255, 255);">
+	<defs>
+		<style>
+			text {
+				fill: rgb(0, 0, 0);
+				font-family: "Times New Roman";
+				text-anchor: middle;
+				font-size: 16px;
+			}
+		</style>
+	</defs>
+	<g>
+		<path d="M 255.04 103.64 Q 190 147 130.26 107.17" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 125.89 104.26 L 133.66 105.23 L 130.26 107.17 L 129.77 111.06 Z" fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="189.64" y="113.75">a</text></g>
+		<path d="M 124.96 70.36 Q 190 27 249.74 66.83" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 254.11 69.74 L 246.34 68.77 L 249.74 66.83 L 250.23 62.94 Z" fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="189.36" y="33.41">a, b</text></g>
+		<path d="M 88.18 59.43 Q 70 17 100 17 Q 130 17 114.33 53.57" fill="none" stroke="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 112.26 58.4 L 111.8 50.59 L 114.33 53.57 L 118.23 53.34 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="109.34" y="13.5">a</text></g>
+		<ellipse cx="100" cy="87" rx="30" ry="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)"
+			pointer-events="all" />
+		<ellipse cx="100" cy="87" rx="26" ry="26" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all" />
+		<g><text x="99.5" y="93.5">0</text></g>
+		<path d="M 0 82.97 L 40 82.97 M 40 91.03 L 0 91.03 M 40 91.03" fill="none" stroke="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<path d="M 34 97 L 44 87 L 34 77" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<ellipse cx="280" cy="87" rx="30" ry="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)"
+			pointer-events="all" />
+		<g><text x="279.5" y="93.5">1</text></g>
+	</g>
+</svg>

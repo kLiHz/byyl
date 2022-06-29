@@ -1,0 +1,15 @@
+[book]
+authors = ["henry_23"]
+language = "zh-Hans"
+multilingual = false
+src = "src"
+title = "编译原理课程作业"
+
+[output.html]
+# MathJax 支持
+mathjax-support = true
+additional-css = ["theme/css/custom.css"]
+# Git 仓库链接
+git-repository-url = "https://github.com/kLiHz/byyl"
+# 编辑链接模板
+edit-url-template = "https://github.com/kLiHz/byyl/edit/main/{path}"

@@ -1,0 +1,44 @@
+html {
+    font-family: "Times New Roman", "SimSun", serif;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+    font-family: "Open Sans", "Source Han Sans", sans-serif;
+}
+
+em {
+    font-style: italic;
+    font-synthesis: none;  /* browser will not synthesize an oblique font face */
+    font-family: "Times New Roman", "KaiTi", sans-serif;
+}
+
+figcaption {
+    font-family: "Times New Roman", "FangSong", serif;
+    text-align: center;
+}
+
+code {
+    font-family: Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
+}
+
+kbd {
+    font-family: Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
+    border-radius: 3px;
+    padding: 0.1em 0.3em;
+    border: 1px solid var(--table-header-bg);
+    font-size: 0.875em;
+}
+
+figure > *:not(:last-child) {
+    /* Add space between children of 'figure' elements */
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* .content a { text-decoration: none; } */
+.content img, .content video {
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
