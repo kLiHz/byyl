@@ -10,8 +10,13 @@
 \\end{align}
 \\]
 
-是证明 \\(E + T * F\\) 是它的一个句型, 指出这个句型的所有短语, 直接短语和句柄.
+试证明 \\(E + T \* F\\) 是它的一个句型, 指出这个句型的所有短语, 直接短语和句柄.
 
+**解:**
+
+短语: E+T\*F, T\*F \
+直接短语: T\*F \
+句柄: T\*F
 
 ---
 
@@ -28,6 +33,74 @@
 
 (2) 指出 \\( (((a,a), \\land, (a)), a) \\) 的规范归约及每一步的句柄. 根据这个规范归约, 给出 "移进 - 归约" 的过程, 并给出它的语法树自下而上的构造过程.
 
+**解:**
+(1)
+最左推导:
+
+\\( (a, (a, a)) \\): 
+
+\\(
+S \\Rightarrow (T) \\Rightarrow (T, S) \\Rightarrow (S, S) \\Rightarrow (a, (T)) 
+\\Rightarrow (a, (T, S)) \\Rightarrow (a, (S, S)) \\Rightarrow (a, (a, S)) \\Rightarrow (a, (a, a))
+\\)
+
+\\( (((a, a), \\land , (a)), a) \\):
+
+\\(
+\\begin{split}
+S 
+     & \\Rightarrow (T) 
+\\\\ & \\Rightarrow (T, S) 
+\\\\ & \\Rightarrow (S, S)
+\\\\ & \\Rightarrow ((T), S)
+\\\\ & \\Rightarrow ((T, S), S) 
+\\\\ & \\Rightarrow ((T, S, S), S) 
+\\\\ & \\Rightarrow ((S, S, S), S) 
+\\\\ & \\Rightarrow (((T), S, S), S) 
+\\\\ & \\Rightarrow (((T, S), S, S), S) 
+\\\\ & \\Rightarrow (((S, S), S, S), S) 
+\\\\ & \\Rightarrow (((a, S), S, S), S)
+\\\\ & \\Rightarrow (((a, a), S, S), S)
+\\\\ & \\Rightarrow (((a, a), \\land, S), S)
+\\\\ & \\Rightarrow (((a, a), \\land, (T)), S)
+\\\\ & \\Rightarrow (((a, a), \\land, (S)), S)
+\\\\ & \\Rightarrow (((a, a), \\land, (a)), S)
+\\\\ & \\Rightarrow (((a, a), \\land, (a)), a)
+\\end{split}
+\\)
+
+最右推导:
+
+\\( (a, (a, a)) \\): 
+
+\\(
+S \\Rightarrow (T) \\Rightarrow (T, S) \\Rightarrow (T, (T)) \\Rightarrow (T, (T, S)) 
+\\Rightarrow (T, (T, a)) \\Rightarrow (T, (S, a)) \\Rightarrow (T, (a, a)) \\Rightarrow(S, (a, a)) \\Rightarrow (a, (a, a)) 
+\\)
+
+\\( (((a, a), \\land , (a)), a) \\):
+
+\\(
+\\begin{split}
+S 
+     & \\Rightarrow (T) 
+\\\\ & \\Rightarrow (T, a) 
+\\\\ & \\Rightarrow (S, a)
+\\\\ & \\Rightarrow ((T), a)
+\\\\ & \\Rightarrow ((T, S), a) 
+\\\\ & \\Rightarrow ((T, (T)), a) 
+\\\\ & \\Rightarrow ((T, (S)), a) 
+\\\\ & \\Rightarrow ((T, (a)), a) 
+\\\\ & \\Rightarrow ((T, S, (a)), a) 
+\\\\ & \\Rightarrow ((T, \\land, (a)), a) 
+\\\\ & \\Rightarrow ((S, \\land, (a)), a) 
+\\\\ & \\Rightarrow (((T), \\land, (a)), a) 
+\\\\ & \\Rightarrow (((T, S), \\land, (a)), a) 
+\\\\ & \\Rightarrow (((T, a), \\land, (a)), a) 
+\\\\ & \\Rightarrow (((S, a), \\land, (a)), a) 
+\\\\ & \\Rightarrow (((a, a), \\land, (a)), a) 
+\\end{split}
+\\)
 
 ---
 

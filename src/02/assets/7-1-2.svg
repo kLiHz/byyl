@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="361px"
+	height="218px" viewBox="-0.5 -0.5 361 218" style="background-color: rgb(255, 255, 255);">
+	<defs>
+		<style>
+			text {
+				fill: rgb(0, 0, 0);
+				font-family: "Times New Roman";
+				text-anchor: middle;
+				font-size: 12px;
+			}
+
+			path,
+			ellipse {
+				stroke: rgb(0, 0, 0);
+			}
+		</style>
+	</defs>
+	<g>
+		<ellipse cx="100" cy="40" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="99.5" y="44.5">1</text></g>
+		<path d="M 117.89 111.06 L 156.42 91.79" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 161.11 89.44 L 156.42 95.71 L 156.42 91.79 L 153.29 89.44 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="139.65" y="93.86">0</text></g>
+		<path d="M 117.89 128.94 L 156.42 148.21" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 161.11 150.56 L 153.29 150.56 L 156.42 148.21 L 156.42 144.29 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="139.65" y="154.14">1</text></g>
+		<ellipse cx="100" cy="120" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="99.5" y="124.5">2</text></g>
+		<path d="M 180 100 L 180 133.63" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 180 138.88 L 176.5 131.88 L 180 133.63 L 183.5 131.88 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="189.5" y="124">1</text></g>
+		<ellipse cx="180" cy="80" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="179.5" y="84.5">3</text></g>
+		<path d="M 197.89 151.06 L 236.42 131.79" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 241.11 129.44 L 236.42 135.71 L 236.42 131.79 L 233.29 129.44 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="219.67" y="153.98">0</text></g>
+		<ellipse cx="180" cy="160" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="179.5" y="164.5">4</text></g>
+		<path d="M 37.89 71.06 L 76.42 51.79" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 81.11 49.44 L 76.42 55.71 L 76.42 51.79 L 73.29 49.44 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="59.65" y="53.86">0</text></g>
+		<path d="M 37.89 88.94 L 76.42 108.21" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 81.11 110.56 L 73.29 110.56 L 76.42 108.21 L 76.42 104.29 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="59.65" y="114.14">1</text></g>
+		<ellipse cx="20" cy="80" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="19.5" y="84.5">0</text></g>
+		<path d="M 242.11 111.06 L 203.58 91.79" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 198.89 89.44 L 206.71 89.44 L 203.58 91.79 L 203.58 95.71 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="219.35" y="93.86">0</text></g>
+		<path d="M 277.33 110.02 Q 300 110.02 316.3 110.02" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 321.55 110.02 L 314.55 113.52 L 316.3 110.02 L 314.55 106.52 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="299.69" y="104.02">1</text></g>
+		<ellipse cx="260" cy="120" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="259.5" y="124.5">5</text></g>
+		<path d="M 90 22.68 Q 90 0 100 0 Q 110 0 110 16.31" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 110 21.56 L 106.5 14.56 L 110 16.31 L 113.5 14.56 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="79.5" y="14.03">0</text></g>
+		<path d="M 117.32 30 Q 140 30 140 40 Q 140 50 123.69 50" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 118.44 50 L 125.44 46.5 L 123.69 50 L 125.44 53.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="149.5" y="43.97">1</text></g>
+		<path d="M 170 62.68 Q 170 40 180 40 Q 190 40 190 56.31" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 190 61.56 L 186.5 54.56 L 190 56.31 L 193.5 54.56 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="179.47" y="34">0</text></g>
+		<path d="M 170 177.32 Q 170 200 180 200 Q 190 200 190 183.69" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 190 178.44 L 193.5 185.44 L 190 183.69 L 186.5 185.44 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="179.47" y="214">1</text></g>
+		<path d="M 322.69 130.02 Q 300 130.02 283.68 130.02" fill="none" stroke-miterlimit="10"
+			pointer-events="stroke" />
+		<path d="M 278.43 130.02 L 285.43 126.52 L 283.68 130.02 L 285.43 133.52 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="299.33" y="144.02">0</text></g>
+		<path d="M 340 140 Q 340 170.02 203.68 170.02" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 198.43 170.02 L 205.43 166.52 L 203.68 170.02 L 205.43 173.52 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="279.32" y="184.02">1</text></g>
+		<ellipse cx="340" cy="120" rx="20" ry="20" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="339.5" y="124.5">6</text></g>
+	</g>
+</svg>

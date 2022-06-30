@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="382px"
+	height="461px" viewBox="-0.5 -0.5 382 461" style="background-color: rgb(255, 255, 255);">
+	<defs>
+		<style>
+			text {
+				fill: rgb(0, 0, 0);
+				font-family: "Times New Roman";
+				text-anchor: middle;
+				font-size: 12px;
+			}
+
+			path,
+			ellipse {
+				stroke: rgb(0, 0, 0);
+			}
+		</style>
+	</defs>
+	<g>
+		<path d="M 66.37 30 L 93.63 30" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 61.12 30 L 68.12 26.5 L 66.37 30 L 68.12 33.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 98.88 30 L 91.88 33.5 L 93.63 30 L 91.88 26.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="79.5" y="24">MG</text></g>
+		<ellipse cx="30" cy="30" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="29.5" y="34.5">MWGC||φ</text></g>
+		<path d="M 166.37 30 L 193.63 30" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 161.12 30 L 168.12 26.5 L 166.37 30 L 168.12 33.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 198.88 30 L 191.88 33.5 L 193.63 30 L 191.88 26.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="179.5" y="24">M</text></g>
+		<ellipse cx="130" cy="30" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="129.5" y="34.5">WC||MG</text></g>
+		<path d="M 211.29 61.19 L 188.71 98.81" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 213.99 56.68 L 213.39 64.49 L 211.29 61.19 L 207.39 60.89 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<path d="M 186.01 103.32 L 186.61 95.51 L 188.71 98.81 L 192.61 99.11 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="189.09" y="74.15">MW</text></g>
+		<path d="M 248.71 61.19 L 271.29 98.81" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 246.01 56.68 L 252.61 60.89 L 248.71 61.19 L 246.61 64.49 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<path d="M 273.99 103.32 L 267.39 99.11 L 271.29 98.81 L 273.39 95.51 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="269.91" y="74.15">MC</text></g>
+		<ellipse cx="230" cy="30" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="229.5" y="34.5">WCM||G</text></g>
+		<path d="M 170 166.37 L 170 203.63" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 170 161.12 L 173.5 168.12 L 170 166.37 L 166.5 168.12 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 170 208.88 L 166.5 201.88 L 170 203.63 L 173.5 201.88 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="189.5" y="184">MG</text></g>
+		<ellipse cx="170" cy="130" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="169.5" y="134.5">C||MWG</text></g>
+		<path d="M 290 166.37 L 290 203.63" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 290 161.12 L 293.5 168.12 L 290 166.37 L 286.5 168.12 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 290 208.88 L 286.5 201.88 L 290 203.63 L 293.5 201.88 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="309.5" y="184">MG</text></g>
+		<ellipse cx="290" cy="130" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="289.5" y="134.5">W||MCG</text></g>
+		<path d="M 190.1 270.31 L 209.77 299.78" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 187.18 265.94 L 193.98 269.82 L 190.1 270.31 L 188.16 273.71 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<path d="M 212.68 304.15 L 205.89 300.27 L 209.77 299.78 L 211.71 296.38 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="189.47" y="293.92">MC</text></g>
+		<ellipse cx="170" cy="240" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="169.5" y="244.5">MGC||W</text></g>
+		<path d="M 269.9 270.31 L 250.23 299.78" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 272.82 265.94 L 271.84 273.71 L 269.9 270.31 L 266.02 269.82 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<path d="M 247.32 304.15 L 248.29 296.38 L 250.23 299.78 L 254.11 300.27 Z" fill="rgb(0, 0, 0)"
+			stroke-miterlimit="10" pointer-events="all" />
+		<g><text x="269.53" y="293.92">MW</text></g>
+		<ellipse cx="290" cy="240" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="289.5" y="244.5">MGW||C</text></g>
+		<path d="M 230 366.37 L 230 393.63" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 230 361.12 L 233.5 368.12 L 230 366.37 L 226.5 368.12 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 230 398.88 L 226.5 391.88 L 230 393.63 L 233.5 391.88 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="239.5" y="384">M</text></g>
+		<ellipse cx="230" cy="330" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="229.5" y="334.5">G||MWC</text></g>
+		<path d="M 266.37 430 L 313.63 430" fill="none" stroke-miterlimit="10" pointer-events="stroke" />
+		<path d="M 261.12 430 L 268.12 426.5 L 266.37 430 L 268.12 433.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<path d="M 318.88 430 L 311.88 433.5 L 313.63 430 L 311.88 426.5 Z" fill="rgb(0, 0, 0)" stroke-miterlimit="10"
+			pointer-events="all" />
+		<g><text x="289.93" y="424">MG</text></g>
+		<ellipse cx="230" cy="430" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="229.5" y="434.5">MG||WC</text></g>
+		<ellipse cx="350" cy="430" rx="30" ry="30" fill="rgb(255, 255, 255)" pointer-events="all" />
+		<g><text x="349.5" y="434.5">φ||MGWC</text></g>
+	</g>
+</svg>
